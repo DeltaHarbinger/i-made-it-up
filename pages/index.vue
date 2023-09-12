@@ -2,7 +2,7 @@
 
 <template>
   <main>
-    <section class="h-[50vh] flex flex-col items-center justify-center space-y-4">
+    <section class="min-h-[50vh] flex flex-col items-center justify-center space-y-4">
       <h1 class="text-9xl font-bold">I Made It Up!</h1>
       <p class="italic">You want a source? The source is me, bro!</p>
     </section>
