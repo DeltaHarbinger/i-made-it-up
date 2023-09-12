@@ -2,8 +2,9 @@
 
 <template>
   <main>
-    <section class="h-[50vh] flex items-center justify-center">
+    <section class="h-[50vh] flex flex-col items-center justify-center space-y-4">
       <h1 class="text-9xl font-bold">I Made It Up!</h1>
+      <p class="italic">You want a source? The source is me, bro!</p>
     </section>
     <section>
       <article class="text-center space-y-3">
