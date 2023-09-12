@@ -8,7 +8,7 @@
     <section>
       <article class="text-center space-y-3">
         <h3 class="text-3xl">Did someone use this link as a source during a discussion or argument?</h3>
-        <p class="text-xl">That means that they absolutely know what they are talking about!</p>
+        <p class="text-xl">That means that they need you to trust them on this one!</p>
         <p>
           Scholarly sources are great, but so is having the confidence to state an opinion based on a surface-level understanding of a topic.
         </p>
