@@ -6,9 +6,9 @@ useSeoMeta({
 </script>
 
 <template>
-  <main>
-    <section class="min-h-[50vh] flex flex-col items-center justify-center space-y-4">
-      <h1 class="text-9xl font-bold">I Made It Up!</h1>
+  <main class="text-center">
+    <section class="space-y-4 my-32">
+      <h1 class="text-6xl md:text-9xl font-bold text-center">I Made It Up!</h1>
       <p class="italic">You want a source? Nah, just trust me bro!</p>
     </section>
     <section>
