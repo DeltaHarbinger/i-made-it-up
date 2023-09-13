@@ -1,10 +1,15 @@
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+useSeoMeta({
+  title: "Info & Content",
+  description: "",
+})
+</script>
 
 <template>
   <main>
     <section class="min-h-[50vh] flex flex-col items-center justify-center space-y-4">
       <h1 class="text-9xl font-bold">I Made It Up!</h1>
-      <p class="italic">You want a source? The source is me, bro!</p>
+      <p class="italic">You want a source? Nah, just trust me bro!</p>
     </section>
     <section>
       <article class="text-center space-y-3">
