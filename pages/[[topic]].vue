@@ -38,7 +38,7 @@ useSeoMeta({
   <main class="text-center">
     <section class="space-y-4 my-32">
       <h1 class="text-6xl md:text-9xl font-bold text-center">{{ generateCapitalizedString(topicString) }}</h1>
-      <p class="italic">You want a source? Nah, just trust me bro!</p>
+      <p class="italic">Did you want a source related to "{{ generateCapitalizedString(topicString) }}"? Nah, just trust me bro!</p>
     </section>
     <section>
       <article class="text-center space-y-3">
